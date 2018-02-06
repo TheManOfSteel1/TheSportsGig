@@ -3,6 +3,18 @@
 
 /* end of navrbar code */
 
+/* start of body */
+#about-us{
+
+  background-image: url("aboutuspic.jpg");
+}
+
+#text {
+color: white;
+/* end of body code */
+
+
+
 /* start of sidebar code icon for social media */
 .socialmedia {
     position: fixed;
