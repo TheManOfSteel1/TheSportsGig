@@ -20,7 +20,7 @@ color: white;
 .socialmedia {
     position: fixed;
     right: 0;
-    bottom: 50%;
+    top: 200px;
 }
 
 .circle {
