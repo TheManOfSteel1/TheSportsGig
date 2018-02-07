@@ -25,6 +25,14 @@ color: white;
 
 
 
+.graphitebackg{
+    background-image: url("3kUVDuo.png");
+}
+
+.blogback{
+    background-color: white;
+}
+
 /* start of sidebar code icon for social media */
 .socialmedia {
     position: fixed;
@@ -124,4 +132,10 @@ background: #209ff8;
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
+}
+.videoscolor {
+    background-color: grey;
+}
+.newspotcolor{
+    background-color: charcoal;
 }
