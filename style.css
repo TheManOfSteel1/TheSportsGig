@@ -10,10 +10,13 @@
 }
 
 .parallaxA {
-    background-image: url(https://www.walldevil.com/wallpapers/a18/opera-website-speaker-background-ground-back.jpg);
+    background-image: url("footballfield.png");
     background-attachment: fixed;
-    height: 150px;
+    background-position: center;
+    height: 250px;
 }
+
+
 
 #aboutustext {
 color: white;
@@ -26,6 +29,7 @@ color: white;
 .socialmedia {
     position: fixed;
     right: 0;
+    margin-right: 10px;
     top: 200px;
 }
 
