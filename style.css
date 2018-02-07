@@ -9,6 +9,10 @@
   background-image: url("aboutuspic.jpg");
 }
 
+#homepagepic {
+    background-image: url(https://www.walldevil.com/wallpapers/a18/opera-website-speaker-background-ground-back.jpg);
+}
+
 #aboutustext {
 color: white;
 }
